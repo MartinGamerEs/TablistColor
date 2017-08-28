@@ -1,0 +1,5 @@
+main: com.isnakebuzz.Color.Main
+name: MangoColor
+author: iSnakeBuzz_
+softdepend: [Mango]
+version: 1.1
